@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Photo 1",
+    "description": "Sports brands outlet",
+    "imageUrl": "https://i.ibb.co/j4X4M1F/2024-03-15-16-25-21.png"
+  },
+  {
+    "id": 2,
+    "name": "Photo 2",
+    "description": "10% discount on all bikes",
+    "imageUrl": "https://i.ibb.co/6Zc8x3B/22222.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Photo 3",
+    "description": "Up to 30% discount on football merchandise",
+    "imageUrl": "https://i.ibb.co/GdpzfFL/222.png"
+  },
+  {
+    "id": 4,
+    "name": "Photo 4",
+    "description": "Double bonuses when purchasing a new adidas collection",
+    "imageUrl": "https://i.ibb.co/YN37h1j/2024-03-15-16-23-14.png"
+  },
+  {
+    "id": 5,
+    "name": "Photo 5",
+    "description": "Tell the cashier the promo code to get an additional discount",
+    "imageUrl": "https://i.ibb.co/mTYDZ6T/3.png"
+  }
+]
